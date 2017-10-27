@@ -18,7 +18,7 @@ Second test, this time from Tableau Public:
 
 <iframe src="https://public.tableau.com/views/Incomevs_GradeLevelsScatterChart/Incomevs_GradeLevels?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
 
-<img src="Capture.PNG" usemap="#image-map">
+<img src="https://www.w3schools.com/w3images/fjords.jpg" usemap="#image-map">
 
 <map name="image-map">
     <area target="_self" alt="ALM Business Planning Dashboard" title="ALM Business Planning Dashboard" href="#" coords="38,65,214,155,212,417,39,505" shape="poly">
