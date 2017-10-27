@@ -18,12 +18,14 @@ Second test, this time from Tableau Public:
 
 <iframe src="https://public.tableau.com/views/Incomevs_GradeLevelsScatterChart/Incomevs_GradeLevels?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
 
-<img id="Image-Maps-Com-image-maps-2017-10-27-035317" src="http://www.image-maps.com/m/private/0/m6be3323skimdp9fipc0lguud1_retour-sur-la-course-du-coeur-2017.jpg" border="0" width="810" height="541" orgWidth="810" orgHeight="541" usemap="#image-maps-2017-10-27-035317" alt="" />
-<map name="image-maps-2017-10-27-035317" id="ImageMapsCom-image-maps-2017-10-27-035317">
-<area  alt="" title="" href="http://www.image-maps.com/" shape="rect" coords="264,112,378,267" style="outline:none;" target="_self"     />
-<area  alt="" title="" href="http://www.image-maps.com/" shape="rect" coords="423,189,537,344" style="outline:none;" target="_self"     />
-<area shape="rect" coords="808,539,810,541" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0" />
-<area  alt="" title="" href="http://www.image-maps.com/" shape="poly" coords="431,212,431,212,431,212,431,212,431,212,431,212,431,212,431,212,431,212,431,212,431,212,431,212,431,212,431,212,431,212,431,212" style="outline:none;" target="_self"     />
+<img src="Capture.PNG" usemap="#image-map">
+
+<map name="image-map">
+    <area target="_self" alt="ALM Business Planning Dashboard" title="ALM Business Planning Dashboard" href="#" coords="38,65,214,155,212,417,39,505" shape="poly">
+    <area target="_self" alt="ALM Structure" title="ALM Structure" href="#" coords="224,65,392,156,395,417,224,504" shape="poly">
+    <area target="_self" alt="ALM Analytic Reports" title="ALM Analytic Reports" href="#" coords="411,67,578,153,578,415,409,504" shape="poly">
+    <area target="_self" alt="Sales Dashboard" title="Sales Dashboard" href="#" coords="595,66,761,153,765,415,593,504" shape="poly">
+    <area target="_self" alt="KPI Dashboard" title="KPI Dashboard" href="#" coords="777,67,948,155,948,417,780,501" shape="poly">
 </map>
 
 
